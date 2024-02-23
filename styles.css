@@ -1,0 +1,44 @@
+*
+{
+    background-color: black;
+    color: aqua;
+    padding: 0%;
+    margin: 0%;
+}
+video
+{
+    padding: 30px;
+    height: 450px;
+    width: 800px;
+    border: 4px solid white;
+}
+.high
+{
+    border: 2px solid white;
+}
+div iframe
+{
+    border: 8px solid rgb(81, 255, 0);
+}
+.yes-btn, .no-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  
+  .yes-btn:hover {
+    background-color: #45a049;
+  }
+  
+  .no-btn:hover {
+    background-color: #f44336; /* Red */
+  }
+  
